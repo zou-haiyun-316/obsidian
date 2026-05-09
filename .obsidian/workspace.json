@@ -12,12 +12,14 @@
             "id": "e5b33e9110c2b0fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260508193434.png"
+                "file": "AI/AI的发展历程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260508193434"
+              "icon": "lucide-file",
+              "title": "AI的发展历程"
             }
           }
         ]
@@ -211,19 +213,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e5b33e9110c2b0fa",
+  "active": "f03fa1de7cf7307c",
   "lastOpenFiles": [
-    "AI的发展历程.md",
+    "未命名",
+    "AI",
+    "2026-05-07.md",
+    "AI/AI的发展历程.md",
+    "Pasted image 20260508193434.png",
     "未命名.base",
     "未命名 1.md",
     "未命名/未命名.md",
     "未命名.md",
-    "未命名",
     "未命名 1.base",
     "Pasted image 20260508193441.png",
-    "Pasted image 20260508193434.png",
     "Pasted image 20260508185922.png",
-    "2026-05-07.md",
     "().md",
     "未命名.canvas",
     "未命名 1.canvas",
