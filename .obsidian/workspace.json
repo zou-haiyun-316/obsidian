@@ -6,7 +6,7 @@
       {
         "id": "fd6a1ac34ddd4060",
         "type": "tabs",
-        "dimension": 82.2380106571936,
+        "dimension": 82.23801065719358,
         "children": [
           {
             "id": "e5b33e9110c2b0fa",
@@ -40,28 +40,18 @@
             "id": "80cc4a4c25fdafa7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-10 19.07.28.excalidraw.md"
+                "file": "AI/AI的发展历程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-10 19.07.28.excalidraw"
-            }
-          },
-          {
-            "id": "fc34a4f4611f2a10",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-05-10 19.16.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-10 19.16.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "AI的发展历程"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "0662342f59c73af8",
@@ -254,16 +244,16 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templates:插入模板": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "terminal:Open terminal": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "fc34a4f4611f2a10",
+  "active": "80cc4a4c25fdafa7",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-05-10 19.16.09.excalidraw.md",
     "Excalidraw/Drawing 2026-05-10 19.07.28.excalidraw.md",
