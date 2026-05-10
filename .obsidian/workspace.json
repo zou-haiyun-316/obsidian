@@ -12,11 +12,13 @@
             "id": "e5b33e9110c2b0fa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "AI/AI的发展历程.md"
+                "file": "AI/AI的发展历程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "AI的发展历程"
             }
           },
@@ -33,21 +35,8 @@
               "icon": "lucide-file",
               "title": "How I Use Obsidian"
             }
-          },
-          {
-            "id": "80cc4a4c25fdafa7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "AI/AI的发展历程.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AI的发展历程"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0662342f59c73af8",
@@ -197,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI的发展历程.md",
+                "file": "AI/AI的发展历程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,12 +216,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,7 +237,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "80cc4a4c25fdafa7",
+  "active": "e5b33e9110c2b0fa",
   "lastOpenFiles": [
     "How I Use Obsidian.md",
     "AI/AI的发展历程.md",
