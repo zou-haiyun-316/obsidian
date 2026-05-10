@@ -6,7 +6,7 @@
       {
         "id": "fd6a1ac34ddd4060",
         "type": "tabs",
-        "dimension": 82.23801065719358,
+        "dimension": 47.896213183730715,
         "children": [
           {
             "id": "e5b33e9110c2b0fa",
@@ -41,7 +41,7 @@
       {
         "id": "0662342f59c73af8",
         "type": "tabs",
-        "dimension": 17.761989342806395,
+        "dimension": 52.103786816269285,
         "children": [
           {
             "id": "ce639e0a4b3114fd",
@@ -52,8 +52,21 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
+          },
+          {
+            "id": "56a54392d0c2df11",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "AI/AI的发展历程.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AI的发展历程"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "27fd631b8f90da9b",
@@ -216,11 +230,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +252,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e5b33e9110c2b0fa",
+  "active": "56a54392d0c2df11",
   "lastOpenFiles": [
-    "How I Use Obsidian.md",
     "AI/AI的发展历程.md",
+    "How I Use Obsidian.md",
     "Excalidraw/Drawing 2026-05-10 19.16.09.excalidraw.md",
     "Excalidraw/Drawing 2026-05-10 19.07.28.excalidraw.md",
     "Excalidraw",
