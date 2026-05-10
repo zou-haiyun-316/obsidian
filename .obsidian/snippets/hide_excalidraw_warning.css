@@ -1,2 +1,3 @@
-/* 隐藏 Excalidraw 特定警告行 */
-.cm-line:has(strong:first-child:contains('⚠')) { display: none; }
+.excalidraw .HintViewer {
+  display: none;
+}
