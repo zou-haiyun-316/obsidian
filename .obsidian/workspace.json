@@ -6,7 +6,7 @@
       {
         "id": "fd6a1ac34ddd4060",
         "type": "tabs",
-        "dimension": 82.23801065719361,
+        "dimension": 82.23801065719358,
         "children": [
           {
             "id": "e5b33e9110c2b0fa",
@@ -42,7 +42,7 @@
       {
         "id": "0662342f59c73af8",
         "type": "tabs",
-        "dimension": 17.761989342806398,
+        "dimension": 17.761989342806395,
         "children": [
           {
             "id": "ce639e0a4b3114fd",
@@ -204,6 +204,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "986b740b50278795",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
