@@ -6,7 +6,7 @@
       {
         "id": "fd6a1ac34ddd4060",
         "type": "tabs",
-        "dimension": 47.896213183730715,
+        "dimension": 61.711079943899016,
         "children": [
           {
             "id": "e5b33e9110c2b0fa",
@@ -41,7 +41,7 @@
       {
         "id": "0662342f59c73af8",
         "type": "tabs",
-        "dimension": 52.103786816269285,
+        "dimension": 38.288920056100984,
         "children": [
           {
             "id": "ce639e0a4b3114fd",
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "27fd631b8f90da9b",
@@ -252,7 +251,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "56a54392d0c2df11",
+  "active": "e5b33e9110c2b0fa",
   "lastOpenFiles": [
     "AI/AI的发展历程.md",
     "How I Use Obsidian.md",
