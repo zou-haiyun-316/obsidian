@@ -211,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +229,9 @@
   },
   "active": "cedb1a5abebf2c16",
   "lastOpenFiles": [
-    "AI/AI的发展历程.md",
+    "2026-05-10.md",
     "How I Use Obsidian.md",
+    "AI/AI的发展历程.md",
     "未命名",
     "AI",
     "2026-05-07.md",
