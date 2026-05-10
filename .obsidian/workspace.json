@@ -26,11 +26,23 @@
               "type": "markdown",
               "state": {
                 "file": "AI/AI的发展历程.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "AI的发展历程"
+            }
+          },
+          {
+            "id": "e55d42cdbc158c0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Templates/（TEMPALTE)Excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "（TEMPALTE)Excalidraw"
             }
           }
         ],
@@ -224,6 +236,7 @@
   "lastOpenFiles": [
     "Templates/（TEMPALTE)Excalidraw.md",
     "AI/AI的发展历程.md",
+    "未命名.md",
     "Templates",
     "Pasted image 20260508185922.png",
     "How I Use Obsidian.md",
