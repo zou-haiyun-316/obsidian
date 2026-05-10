@@ -11,13 +11,11 @@
             "id": "ce639e0a4b3114fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AI/AI的发展历程.md",
-                "mode": "source",
-                "source": false
+                "file": "AI/AI的发展历程.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "AI的发展历程"
             }
           }
@@ -203,13 +201,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templates:插入模板": false,
       "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ce639e0a4b3114fd",
+  "active": "f03fa1de7cf7307c",
   "lastOpenFiles": [
-    "Pasted image 20260508185922.png",
+    "Templates",
     "AI/AI的发展历程.md",
+    "Pasted image 20260508185922.png",
     "How I Use Obsidian.md",
     "Pasted image 20260508193434.png",
     "Excalidraw/Drawing 2026-05-10 19.16.09.excalidraw.md",
