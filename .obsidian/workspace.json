@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "AI的发展历程"
             }
+          },
+          {
+            "id": "d4c08875461bf144",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-10 20.49.41.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-10 20.49.41"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +219,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "27d253dd0a79b449",
+  "active": "d4c08875461bf144",
   "lastOpenFiles": [
+    "AI/AI的发展历程.md",
+    "Excalidraw/Drawing 2026-05-10 20.49.41.md",
     "How I Use Obsidian.md",
     "Templates/（TEMPALTE)Excalidraw.md",
-    "AI/AI的发展历程.md",
     "未命名.md",
     "Pasted image 20260508185922.png",
     "Templates",
