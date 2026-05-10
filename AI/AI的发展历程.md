@@ -1,3 +1,8 @@
+---
+excalidraw-plugin: parsed
+tags:
+  - excalidraw
+---
 # 1 LLM技术基础
 2017 Attention is All You Need 提出自注意力机制、Transformer架构，奠定大语言模型的技术基础
 编码器类型：
@@ -95,3 +100,12 @@ todo
 5. 学习&实践embedding，记得实践下图神经网络
 6. 机器学习/深度学习基础知识：https://www.huaxiaozhuan.com/
 7. 全流程学习：https://csdiy.wiki
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFFhCAZjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
+%%
