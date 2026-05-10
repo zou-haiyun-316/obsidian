@@ -35,9 +35,21 @@
               "icon": "lucide-file",
               "title": "How I Use Obsidian"
             }
+          },
+          {
+            "id": "80cc4a4c25fdafa7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-10 19.07.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-10 19.07.28.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0662342f59c73af8",
@@ -235,14 +247,17 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cedb1a5abebf2c16",
+  "active": "80cc4a4c25fdafa7",
   "lastOpenFiles": [
+    "How I Use Obsidian.md",
+    "Excalidraw/Drawing 2026-05-10 19.07.28.excalidraw.md",
+    "Excalidraw",
     "111/未命名.md",
     "111/未命名 1",
-    "How I Use Obsidian.md",
     "111",
     "111/未命名",
     "2026-05-10.md",
