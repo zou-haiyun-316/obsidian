@@ -4,15 +4,6 @@ tags:
   - excalidraw
 excalidraw-open-md: true
 ---
-```columns
-id: ZFBRABW7YIlW5sHbbmN-6
-===
-Column 1
-
-===
-Column 2
-
-```
 # 1 LLM技术基础
 2017 Attention is All You Need 提出自注意力机制、Transformer架构，奠定大语言模型的技术基础
 编码器类型：
