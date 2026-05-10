@@ -205,7 +205,8 @@
       "templates:插入模板": false,
       "obsidian-git:Open Git source control": false,
       "terminal:Open terminal": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "e7a7b303c61786dc",
