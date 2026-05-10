@@ -7,12 +7,15 @@ excalidraw-open-md: true
 # 1 LLM技术基础
 2017 Attention is All You Need 提出自注意力机制、Transformer架构，奠定大语言模型的技术基础
 编码器类型：
+> [!summary]
+> Contents
 
 | 架构流派                | 代表模型                    | 核心机制               | 主要优势                                                                                                                                                                               |
 | ------------------- | ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Encoder-Only**    | BERT, RoBERTa, ALBERT   | 双向自注意力机制           | **深度理解**: 能同时看到单词的上下文，捕捉丰富的语义信息[](https://developer.baidu.com/article/details/3321335)[](https://cloud.baidu.com/article/5595222)。                                                 |
 | **Encoder-Decoder** | T5, BART, 原始Transformer | 编码器压缩输入，解码器基于此生成输出 | **序列转换**: 擅长将一个序列映射到另一个不同长度的序列，灵活度高[](https://cloud.tencent.com.cn/developer/article/2398327?from=15425)[](https://developer.baidu.com/article/details/3321335)。                   |
 | **Decoder-Only**    | GPT系列, LLaMA, Mistral   | 单向（因果）自注意力机制       | **文本生成**: 擅长自回归地预测下一个词，生成流畅、连贯的文本[](https://developer.baidu.com/article/details/3321335)[](https://ones.com.cn/tech-news/comprehensive-guide-to-llm-architectures-evolution-2024)。 |
+|                     |                         |                    |                                                                                                                                                                                    |
  ![[file-20260510205941417.png]]
 # 2 ChatBot 
 与大语言模型进行交互的初步形式
