@@ -102,8 +102,6 @@ todo
 5. 学习&实践embedding，记得实践下图神经网络
 6. 机器学习/深度学习基础知识：https://www.huaxiaozhuan.com/
 7. 全流程学习：https://csdiy.wiki
-
-
 # Excalidraw Data
 
 ## Text Elements
