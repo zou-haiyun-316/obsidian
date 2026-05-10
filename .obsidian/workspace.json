@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +238,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f03fa1de7cf7307c",
+  "active": "cedb1a5abebf2c16",
   "lastOpenFiles": [
+    "111/未命名.md",
     "111/未命名 1",
     "How I Use Obsidian.md",
-    "111/未命名.md",
     "111",
     "111/未命名",
     "2026-05-10.md",
