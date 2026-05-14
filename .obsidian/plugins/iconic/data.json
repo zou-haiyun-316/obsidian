@@ -36,10 +36,13 @@
       "icon": "homepage"
     },
     "Resource": {
-      "icon": "🧠"
+      "icon": "lucide-briefcase-business"
     },
     "Templates": {
       "icon": "lucide-layout-template"
+    },
+    "Templates/（TEMPALTE)Excalidraw.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
     }
   },
   "bookmarkIcons": {},
