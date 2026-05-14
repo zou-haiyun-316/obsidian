@@ -50,11 +50,20 @@
     "Resource/Stem/Computer Science": {
       "icon": "lucide-computer"
     },
+    "Resource/Stem/Computer Science/Recommender System": {
+      "icon": "lucide-creative-commons"
+    },
+    "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
     "Resource/Stem/Statistics": {
       "icon": "lucide-chart-no-axes-column-increasing"
     },
     "Resource/Stem/Statistics/AI": {
       "icon": "lucide-rss"
+    },
+    "Resource/Stem/Statistics/AI/AI的发展历程.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
     },
     "Templates": {
       "icon": "lucide-layout-template"
