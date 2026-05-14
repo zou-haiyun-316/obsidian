@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/AI的发展历程.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI的发展历程 的大纲"
+              "title": "小红书的推荐系统 的大纲"
             }
           },
           {
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,9 +226,10 @@
   },
   "active": "21efb497e2740c24",
   "lastOpenFiles": [
-    "Resource/Stem/Statistics/AI/AI的发展历程.md",
-    "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
     "Templates/（TEMPALTE)Excalidraw.md",
+    "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
+    "Homepage.md",
+    "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Resource/Stem/Computer Science/Recommender System",
     "未命名",
     "Resource/方法.md",
@@ -237,7 +238,6 @@
     "Resource/Social Science",
     "Resource/Stem",
     "Resource/Humanities",
-    "Homepage.md",
     "Homepage/Homepage.md",
     "Resource",
     "Homepage",

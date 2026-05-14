@@ -39,16 +39,20 @@
       "icon": "lucide-briefcase-business"
     },
     "Resource/Humanities": {
-      "icon": "lucide-siren"
+      "icon": "lucide-sidebar-open",
+      "color": "gray"
     },
     "Resource/Social Science": {
-      "icon": "lucide-book-open-text"
+      "icon": "lucide-book-open-text",
+      "color": "gray"
     },
     "Resource/Stem": {
-      "icon": "lucide-wrench"
+      "icon": "lucide-wrench",
+      "color": "gray"
     },
     "Resource/Stem/Computer Science": {
-      "icon": "lucide-computer"
+      "icon": "lucide-computer",
+      "color": "gray"
     },
     "Resource/Stem/Computer Science/Recommender System": {
       "icon": "lucide-creative-commons"
@@ -80,15 +84,48 @@
   "folderRules": [
     {
       "id": "DioWF",
-      "name": "无标题规则",
+      "name": "人文学科文件粉色规则",
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "path",
+          "operator": "is",
+          "value": "Resource/Humanities"
         }
       ],
-      "enabled": true
+      "enabled": false,
+      "color": "pink",
+      "icon": "lucide-siren"
+    },
+    {
+      "id": "g4t6X",
+      "name": "社会科学文件绿色规则",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "Resource/Social Science"
+        }
+      ],
+      "enabled": false,
+      "color": "green",
+      "icon": "lucide-book-open-text"
+    },
+    {
+      "id": "A4Y7d",
+      "name": "理工科文件黄色规则",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "contains",
+          "value": "Resource/Stem"
+        }
+      ],
+      "enabled": false,
+      "color": "yellow",
+      "icon": "lucide-carrot"
     }
   ]
 }
