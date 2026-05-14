@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "Homepage.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -208,10 +208,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f03fa1de7cf7307c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage/Homepage.md",
-    "未命名.md",
+    "Homepage.md",
     "未命名",
     "AI/AI的发展历程.md",
     "Homepage",
