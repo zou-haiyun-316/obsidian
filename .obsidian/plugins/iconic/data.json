@@ -24,7 +24,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -38,6 +38,15 @@
     "Resource": {
       "icon": "lucide-briefcase-business"
     },
+    "Resource/Humanities": {
+      "icon": "lucide-siren"
+    },
+    "Resource/Social Science": {
+      "icon": "lucide-book-open-text"
+    },
+    "Resource/Stem": {
+      "icon": "lucide-wrench"
+    },
     "Templates": {
       "icon": "lucide-layout-template"
     },
@@ -50,5 +59,18 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [],
-  "folderRules": []
+  "folderRules": [
+    {
+      "id": "DioWF",
+      "name": "无标题规则",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    }
+  ]
 }
