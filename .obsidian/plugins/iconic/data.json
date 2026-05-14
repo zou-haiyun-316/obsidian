@@ -51,7 +51,10 @@
       "icon": "lucide-computer"
     },
     "Resource/Stem/Statistics": {
-      "icon": "lucide-clock-7"
+      "icon": "lucide-chart-no-axes-column-increasing"
+    },
+    "Resource/Stem/Statistics/AI": {
+      "icon": "lucide-rainbow"
     },
     "Templates": {
       "icon": "lucide-layout-template"

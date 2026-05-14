@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Resource/Stem/Statistics/AI/AI的发展历程.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "AI的发展历程"
             }
           }
         ]
@@ -209,30 +209,29 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "f03fa1de7cf7307c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Resource/方法.md",
     "Resource/Stem/Computer Science",
     "Resource/Stem/Statistics",
     "Resource/Social Science",
     "Resource/Stem",
     "Resource/Humanities",
     "Homepage.md",
-    "Resource/方法.md",
     "未命名 1",
     "Homepage/Homepage.md",
     "Resource",
-    "Resource/AI/AI的发展历程.md",
+    "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Homepage",
-    "Resource/AI/assets/AI的发展历程/file-20260510210026654.png",
+    "Resource/Stem/Statistics/AI/assets/AI的发展历程/file-20260510210026654.png",
     "Pasted image 20260508193434.png",
     "Pasted image 20260508193441.png",
     "Pasted image 20260508185922.png",
-    "Resource/AI/assets/AI的发展历程/file-20260510205941417.png",
-    "Resource/AI/assets/AI的发展历程",
-    "Resource/AI/assets",
+    "Resource/Stem/Statistics/AI/assets/AI的发展历程/file-20260510205941417.png",
+    "Resource/Stem/Statistics/AI/assets/AI的发展历程",
+    "Resource/Stem/Statistics/AI/assets",
     "How I Use Obsidian.md",
     "Excalidraw/Drawing 2026-05-10 20.49.41.md",
-    "AI/未命名",
     "Templates/（TEMPALTE)Excalidraw.md",
     "Excalidraw/Drawing 2026-05-10 19.16.09.excalidraw.md",
     "Excalidraw/Drawing 2026-05-10 19.07.28.excalidraw.md",
@@ -240,7 +239,6 @@
     "2026-05-10.md",
     "2026-05-07.md",
     "未命名 1.md",
-    "Resource/方法.md",
     "().md",
     "未命名.canvas",
     "未命名 1.canvas",
