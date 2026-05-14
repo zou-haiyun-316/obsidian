@@ -47,6 +47,12 @@
     "Resource/Stem": {
       "icon": "lucide-wrench"
     },
+    "Resource/Stem/Computer Science": {
+      "icon": "lucide-computer"
+    },
+    "Resource/Stem/Statistics": {
+      "icon": "lucide-clock-7"
+    },
     "Templates": {
       "icon": "lucide-layout-template"
     },
