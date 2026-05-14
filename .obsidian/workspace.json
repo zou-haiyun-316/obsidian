@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "小红书的推荐系统"
@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,9 +227,10 @@
   "active": "21efb497e2740c24",
   "lastOpenFiles": [
     "Templates/（TEMPALTE)Excalidraw.md",
-    "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
+    "（TEMPALTE)Excalidraw.md",
     "Homepage.md",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
+    "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
     "Resource/Stem/Computer Science/Recommender System",
     "未命名",
     "Resource/方法.md",
