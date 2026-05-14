@@ -35,6 +35,9 @@
     "Homepage.md": {
       "icon": "homepage"
     },
+    "Resource": {
+      "icon": "🧠"
+    },
     "Templates": {
       "icon": "lucide-layout-template"
     }
