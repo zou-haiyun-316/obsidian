@@ -39,13 +39,11 @@
             "id": "a33ebea262401858",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
-                "mode": "source",
-                "source": false
+                "file": "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "小红书的推荐系统"
             }
           }
@@ -184,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "小红书的推荐系统 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -238,10 +236,14 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "a33ebea262401858",
+  "active": "d4733b30ef5828f7",
   "lastOpenFiles": [
-    "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/小红书的推荐系统.md",
+    "Homepage.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/小红书的推荐系统/小红书的推荐系统 2026-05-14 17.03.54.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/小红书的推荐系统",
+    "Resource/Stem/Computer Science/Recommender System/assets",
+    "Excalidraw/Drawing 2026-05-14 17.03.00.md",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Excalidraw/Drawing 2026-05-14 16.59.00.md",
     "Templates/（TEMPALTE)Excalidraw.md",
@@ -256,13 +258,11 @@
     "Resource/Humanities",
     "Homepage/Homepage.md",
     "Resource",
-    "Homepage",
     "Resource/Stem/Statistics/AI/assets/AI的发展历程/file-20260510210026654.png",
     "Pasted image 20260508193434.png",
     "Pasted image 20260508193441.png",
     "Pasted image 20260508185922.png",
     "Resource/Stem/Statistics/AI/assets/AI的发展历程/file-20260510205941417.png",
-    "Resource/Stem/Statistics/AI/assets/AI的发展历程",
     "How I Use Obsidian.md",
     "Excalidraw/Drawing 2026-05-10 20.49.41.md",
     "Excalidraw/Drawing 2026-05-10 19.16.09.excalidraw.md",
