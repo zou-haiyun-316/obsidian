@@ -37,24 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0f3ecfeec8b66c8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4a4ff24cffffcac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/推荐系统.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "推荐系统"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -219,12 +201,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +225,7 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "a33ebea262401858",
+  "active": "cdbfcdac0fb75747",
   "lastOpenFiles": [
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515222029713.png",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515222007155.png",
