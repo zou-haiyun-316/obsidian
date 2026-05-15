@@ -1,5 +1,6 @@
 {
   "useMarkdownLinks": true,
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "smartIndentList": false
 }
