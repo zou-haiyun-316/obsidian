@@ -35,7 +35,8 @@
               "title": "2 推荐系统的召回"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "40ffaf71f40c6c36",
@@ -110,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "27fd631b8f90da9b",
@@ -187,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 推荐系统的基本概念 的大纲"
+              "title": "2 推荐系统的召回 的大纲"
             }
           },
           {
@@ -242,8 +244,12 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "384a6477ecb90b17",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516213058781.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516213039915.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516213007450.png",
+    "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516205835051.png",
@@ -255,9 +261,7 @@
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516201518849.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516201423800.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516201230222.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516201050226.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_08.pdf",
-    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516200437707.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_07.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_06.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_05_0.pdf",
@@ -268,7 +272,6 @@
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_02.pdf",
     "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
-    "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
     "Templates/（TEMPALTE)Excalidraw.md",
     "Resource/Stem/Computer Science/Recommender System/assets/小红书的推荐系统/小红书的推荐系统 2026-05-14 17.03.54.md",
     "Excalidraw/Drawing 2026-05-14 17.03.00.md",
