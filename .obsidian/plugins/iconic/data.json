@@ -54,7 +54,16 @@
     "Resource/Stem/Computer Science/Recommender System": {
       "icon": "lucide-creative-commons"
     },
-    "Resource/Stem/Computer Science/Recommender System/推荐系统.md": {
+    "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Recommender System/未命名.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     },
     "Resource/Stem/Statistics": {
