@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "27fd631b8f90da9b",
@@ -246,6 +245,9 @@
   },
   "active": "7a7a321485856f9b",
   "lastOpenFiles": [
+    "excalidraw/aws-architecture-icons.excalidrawlib",
+    "excalidraw/未确认 224543.crdownload",
+    "excalidraw",
     "Resource/Stem/Computer Science/Recommender System/推荐系统.md",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515222645826.png",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515222612114.png",
@@ -273,8 +275,6 @@
     "Resource/Stem/Computer Science",
     "Resource/Stem/Statistics",
     "Resource/Social Science",
-    "Resource/Stem",
-    "Resource/Humanities",
     "Homepage/Homepage.md",
     "How I Use Obsidian.md",
     "Excalidraw/Drawing 2026-05-10 20.49.41.md",
