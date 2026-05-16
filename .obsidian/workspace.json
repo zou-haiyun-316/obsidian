@@ -37,6 +37,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "602083ade14a2208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7a321485856f9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Recommender System/推荐系统.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "推荐系统"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +244,9 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "a33ebea262401858",
+  "active": "7a7a321485856f9b",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/推荐系统.md",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515222645826.png",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515222612114.png",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515222029713.png",
@@ -237,10 +257,8 @@
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515221619544.png",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515221500514.png",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515220822335.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/推荐系统/file-20260515220727894.png",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Templates/（TEMPALTE)Excalidraw.md",
-    "Resource/Stem/Computer Science/Recommender System/推荐系统.md",
     "Resource/Stem/Computer Science/Recommender System/assets/推荐系统",
     "Resource/Stem/Computer Science/Recommender System/assets/小红书的推荐系统",
     "Resource/Stem/Computer Science/Recommender System/assets",
