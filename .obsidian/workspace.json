@@ -62,24 +62,38 @@
               "icon": "lucide-file",
               "title": "5 推荐系统的用户行为序列建模"
             }
+          },
+          {
+            "id": "b7ffea89d9cfc922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 推荐系统的重排"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
-        "id": "e1654fa66a2ac03d",
+        "id": "072d1a40558b75e6",
         "type": "tabs",
         "children": [
           {
-            "id": "eaa5e91a3f27a066",
+            "id": "08b82c8d5a28e0bc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md"
+                "file": "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md"
               },
               "icon": "excalidraw-icon",
-              "title": "5 推荐系统的用户行为序列建模"
+              "title": "6 推荐系统的重排"
             }
           }
         ]
@@ -217,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5 推荐系统的用户行为序列建模 的大纲"
+              "title": "6 推荐系统的重排 的大纲"
             }
           },
           {
@@ -272,8 +286,13 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "a5b03088c76e86e7",
+  "active": "b7ffea89d9cfc922",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_01.pdf",
+    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排",
+    "Homepage.md",
+    "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
+    "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260517202028964.png",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260517201953673.png",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260517201922846.png",
@@ -285,10 +304,8 @@
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/05_LastN_03.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260517200953551.png",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260517200851515.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260517200821422.png",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/05_LastN_02.pdf",
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的排序.md",
-    "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/05_LastN_01.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模",
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
@@ -297,9 +314,7 @@
     "Resource/Stem/Computer Science/Recommender System/assets/4 推荐系统的特征交叉/04_Cross_02.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/4 推荐系统的特征交叉/04_Cross_01.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/4 推荐系统的特征交叉",
-    "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/assets/3 推荐系统的排序/03_Rank_06.pdf",
-    "Resource/Stem/Computer Science/Recommender System/assets/3 推荐系统的排序/03_Rank_05.pdf",
     "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
@@ -320,7 +335,6 @@
     "未命名 1.md",
     "().md",
     "未命名.canvas",
-    "未命名 1.canvas",
-    "欢迎.md"
+    "未命名 1.canvas"
   ]
 }
