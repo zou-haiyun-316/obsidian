@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,6 +246,7 @@
   },
   "active": "384a6477ecb90b17",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260517110227946.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_10.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516220121283.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260516220004656.png",
@@ -268,7 +270,6 @@
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_04.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_03.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_02_0.pdf",
-    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_02.pdf",
     "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
     "Templates/（TEMPALTE)Excalidraw.md",
