@@ -41,44 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 推荐系统的基本概念"
-            }
-          },
-          {
-            "id": "a5b03088c76e86e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 推荐系统的用户行为序列建模"
-            }
-          },
-          {
-            "id": "b7ffea89d9cfc922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 推荐系统的重排"
+              "title": "7 推荐系统的物品冷启动"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "072d1a40558b75e6",
@@ -95,8 +67,23 @@
               "icon": "excalidraw-icon",
               "title": "6 推荐系统的重排"
             }
+          },
+          {
+            "id": "2f0e9c691de2bd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 推荐系统的物品冷启动"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "6 推荐系统的重排 的大纲"
+              "title": "7 推荐系统的物品冷启动 的大纲"
             }
           },
           {
@@ -286,8 +273,14 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "b7ffea89d9cfc922",
+  "active": "2f0e9c691de2bd8e",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
+    "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+    "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
+    "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518114046721.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113945434.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113713268.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113546741.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113431619.png",
@@ -297,24 +290,17 @@
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518112804627.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_05.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518112547999.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518112515602.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518112009637.png",
-    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
-    "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_04.pdf",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260517212544684.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_03.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_02.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_01.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排",
     "Homepage.md",
-    "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/05_LastN_03.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/05_LastN_02.pdf",
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的排序.md",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/05_LastN_01.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模",
-    "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
     "Resource/Stem/Computer Science/Recommender System/4 推荐系统的特征交叉.md",
     "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
