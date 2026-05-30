@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "27fd631b8f90da9b",
@@ -257,8 +258,9 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "4f484ce5a5fac74b",
+  "active": "2f0e9c691de2bd8e",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_02.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104205068.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104145688.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104126549.png",
@@ -278,7 +280,6 @@
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
     "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518114046721.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_05.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_04.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_03.pdf",
