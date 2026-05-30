@@ -52,21 +52,8 @@
               "icon": "excalidraw-icon",
               "title": "7 推荐系统的物品冷启动"
             }
-          },
-          {
-            "id": "4f484ce5a5fac74b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "1 推荐系统的基本概念"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,11 +242,49 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "floating": {
+    "id": "13b818fdb54f61d4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "900445ee845ba83f",
+        "type": "window",
+        "children": [
+          {
+            "id": "33e48242053881d1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f484ce5a5fac74b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "1 推荐系统的基本概念"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2902,
+        "y": 25,
+        "width": 788,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f03fa1de7cf7307c",
   "lastOpenFiles": [
-    "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530113523413.png",
     "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530114100377.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530113523413.png",
     "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530105121923.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104939488.png",
@@ -270,8 +295,6 @@
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104126549.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104114387.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260518115936146.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260518115604677.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260518115459959.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动",
     "assets/Homepage/07_ColdStart_01.pdf",
     "assets/Homepage",
