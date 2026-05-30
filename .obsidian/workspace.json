@@ -258,43 +258,6 @@
       "iconic:打开规则书": false
     }
   },
-  "floating": {
-    "id": "13b818fdb54f61d4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "900445ee845ba83f",
-        "type": "window",
-        "children": [
-          {
-            "id": "33e48242053881d1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4f484ce5a5fac74b",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "1 推荐系统的基本概念"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2902,
-        "y": 25,
-        "width": 788,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "619d01b32788e714",
   "lastOpenFiles": [
     "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530120048115.png",
