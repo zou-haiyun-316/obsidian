@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "27fd631b8f90da9b",
@@ -260,6 +259,10 @@
   },
   "active": "4f484ce5a5fac74b",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104205068.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104145688.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104126549.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260530104114387.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260518115936146.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260518115604677.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260518115459959.png",
@@ -276,10 +279,6 @@
     "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518114046721.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113945434.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113713268.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113546741.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260518113431619.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_05.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_04.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_03.pdf",
