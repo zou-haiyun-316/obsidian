@@ -217,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "6 推荐系统的重排 的大纲"
+              "title": "2 推荐系统的召回 的大纲"
             }
           },
           {
@@ -271,8 +271,10 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3ffb8952124254e1",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
+    "Resource/Stem/Computer Science/Seatch Engine",
     "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/4 推荐系统的特征交叉.md",
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的粗排和精排.md",
@@ -291,7 +293,6 @@
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
     "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Resource/Stem/Computer Science/Recommender System/assets/3 推荐系统的粗排和精排",
-    "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_02.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动",
     "assets/Homepage/07_ColdStart_01.pdf",
@@ -300,7 +301,6 @@
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_05.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_04.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_03.pdf",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_02.pdf",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
     "Templates/（TEMPALTE)Excalidraw.md",
