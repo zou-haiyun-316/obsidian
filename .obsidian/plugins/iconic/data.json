@@ -81,6 +81,9 @@
     "Resource/Stem/Computer Science/Seatch Engine": {
       "icon": "lucide-search"
     },
+    "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
     "Resource/Stem/Statistics": {
       "icon": "lucide-chart-no-axes-column-increasing"
     },

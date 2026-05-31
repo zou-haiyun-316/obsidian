@@ -35,9 +35,23 @@
               "icon": "lucide-file",
               "title": "2 推荐系统的召回"
             }
+          },
+          {
+            "id": "fb28d14a0655f3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "072d1a40558b75e6",
@@ -217,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2 推荐系统的召回 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -271,14 +285,15 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "3ffb8952124254e1",
+  "active": "fb28d14a0655f3fc",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md",
+    "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
     "Resource/Stem/Computer Science/Seatch Engine",
     "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/4 推荐系统的特征交叉.md",
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的粗排和精排.md",
-    "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260531224735041.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260531224454823.png",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260531224238691.png",
