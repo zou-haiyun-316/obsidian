@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 推荐系统的基本概念"
+              "title": "2 推荐系统的召回"
             }
           }
         ],
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 推荐系统的基本概念 的大纲"
+              "title": "2 推荐系统的召回 的大纲"
             }
           },
           {
@@ -270,8 +270,9 @@
   },
   "active": "3ffb8952124254e1",
   "lastOpenFiles": [
-    "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+    "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/file-20260531161407823.png",
     "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/assets/3 推荐系统的粗排和精排",
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的粗排和精排.md",
@@ -288,7 +289,6 @@
     "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530114446927.png",
     "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530114256347.png",
     "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530114100377.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260530113523413.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_02.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动",
     "assets/Homepage/07_ColdStart_01.pdf",
