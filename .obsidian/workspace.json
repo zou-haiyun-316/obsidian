@@ -40,11 +40,13 @@
             "id": "2f0e9c691de2bd8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md"
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "7 推荐系统的物品冷启动"
             }
           }
@@ -272,6 +274,7 @@
   },
   "active": "2f0e9c691de2bd8e",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602105926377.png",
     "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104404417.png",
