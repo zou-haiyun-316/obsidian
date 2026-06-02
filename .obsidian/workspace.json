@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 推荐系统提升指标的方法"
+              "title": "7 推荐系统的物品冷启动"
             }
           }
         ],
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "8 推荐系统提升指标的方法 的大纲"
+              "title": "7 推荐系统的物品冷启动 的大纲"
             }
           },
           {
@@ -274,8 +274,11 @@
   },
   "active": "2f0e9c691de2bd8e",
   "lastOpenFiles": [
-    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602141536854.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602141210817.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_03.pdf",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
+    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602113433192.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602113313243.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602112756585.png",
@@ -287,7 +290,6 @@
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602105926377.png",
     "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104404417.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104057702.png",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
     "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
@@ -303,7 +305,6 @@
     "assets/Homepage",
     "assets",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_05.pdf",
-    "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/06_Rerank_04.pdf",
     "Resource/Stem/Statistics/AI/AI的发展历程.md",
     "Templates/（TEMPALTE)Excalidraw.md",
     "Resource/Stem/Computer Science/Recommender System/assets/小红书的推荐系统/小红书的推荐系统 2026-05-14 17.03.54.md",
