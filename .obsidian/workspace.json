@@ -6,7 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 52.03488372093024,
+        "dimension": 46.875,
         "children": [
           {
             "id": "29355bd5078856fe",
@@ -18,62 +18,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "1 搜索引擎基础"
-            }
-          },
-          {
-            "id": "c78cc39fc0840c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Search Engine/2 搜索引擎的相关性.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2 搜索引擎的相关性"
-            }
-          },
-          {
-            "id": "af9d37ea2a9644a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Search Engine/3 搜索引擎的查询词处理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 搜索引擎的查询词处理"
-            }
-          },
-          {
-            "id": "c3f759bd937285dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Search Engine/4 搜索引擎的召回.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 搜索引擎的召回"
-            }
-          },
-          {
-            "id": "d5fea2ebe0987994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Search Engine/5 搜索引擎的排序.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5 搜索引擎的排序"
             }
           },
           {
@@ -109,7 +53,7 @@
       {
         "id": "072d1a40558b75e6",
         "type": "tabs",
-        "dimension": 47.96511627906977,
+        "dimension": 53.125,
         "children": [
           {
             "id": "fb28d14a0655f3fc",
@@ -326,15 +270,15 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "29355bd5078856fe",
   "lastOpenFiles": [
-    "Homepage.md",
+    "Resource/Stem/Computer Science/Search Engine/5 搜索引擎的排序.md",
     "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
+    "Homepage.md",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602162439674.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602162423435.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602162359906.png",
     "Resource/Stem/Computer Science/Search Engine/6 搜索引擎的查询词推荐.md",
-    "Resource/Stem/Computer Science/Search Engine/5 搜索引擎的排序.md",
     "Resource/Stem/Computer Science/Search Engine/4 搜索引擎的召回.md",
     "Resource/Stem/Computer Science/Search Engine/3 搜索引擎的查询词处理.md",
     "Resource/Stem/Computer Science/Search Engine/2 搜索引擎的相关性.md",

@@ -81,21 +81,6 @@
     "Resource/Stem/Computer Science/Search Engine": {
       "icon": "lucide-search"
     },
-    "Resource/Stem/Statistics": {
-      "icon": "lucide-chart-no-axes-column-increasing"
-    },
-    "Resource/Stem/Statistics/AI": {
-      "icon": "lucide-rss"
-    },
-    "Resource/Stem/Statistics/AI/AI的发展历程.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
-    "Templates": {
-      "icon": "lucide-layout-template"
-    },
-    "Templates/（TEMPALTE)Excalidraw.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
     "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     },
@@ -112,6 +97,21 @@
       "icon": "lucide-arrow-up-wide-narrow"
     },
     "Resource/Stem/Computer Science/Search Engine/6 搜索引擎的查询词推荐.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Statistics": {
+      "icon": "lucide-chart-no-axes-column-increasing"
+    },
+    "Resource/Stem/Statistics/AI": {
+      "icon": "lucide-rss"
+    },
+    "Resource/Stem/Statistics/AI/AI的发展历程.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Templates": {
+      "icon": "lucide-layout-template"
+    },
+    "Templates/（TEMPALTE)Excalidraw.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     }
   },
