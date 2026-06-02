@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 推荐系统的物品冷启动"
+              "title": "2 推荐系统的召回"
             }
           }
         ],
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "7 推荐系统的物品冷启动 的大纲"
+              "title": "2 推荐系统的召回 的大纲"
             }
           },
           {
@@ -274,9 +274,9 @@
   },
   "active": "2f0e9c691de2bd8e",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602105926377.png",
     "Homepage.md",
-    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104404417.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104057702.png",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
@@ -292,7 +292,6 @@
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的排序.md",
     "Resource/Stem/Computer Science/Recommender System/4 推荐系统的特征交叉.md",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260601200604769.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260601200424103.png",
     "Resource/Stem/Computer Science/Recommender System/assets/3 推荐系统的排序",
     "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md",
