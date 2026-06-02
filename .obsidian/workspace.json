@@ -23,6 +23,76 @@
             }
           },
           {
+            "id": "c78cc39fc0840c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Seatch Engine/2 搜索引擎的相关性.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 搜索引擎的相关性"
+            }
+          },
+          {
+            "id": "af9d37ea2a9644a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Seatch Engine/3 搜索引擎的查询词处理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 搜索引擎的查询词处理"
+            }
+          },
+          {
+            "id": "c3f759bd937285dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Seatch Engine/4 搜索引擎的召回.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 搜索引擎的召回"
+            }
+          },
+          {
+            "id": "d5fea2ebe0987994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Seatch Engine/5 搜索引擎的排序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 搜索引擎的排序"
+            }
+          },
+          {
+            "id": "4734a1a05d62565c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Stem/Computer Science/Seatch Engine/6 搜索引擎的查询词推荐.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 搜索引擎的查询词推荐"
+            }
+          },
+          {
             "id": "2f0e9c691de2bd8e",
             "type": "leaf",
             "state": {
@@ -36,7 +106,8 @@
               "title": "8 推荐系统提升指标的方法"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "072d1a40558b75e6",
@@ -204,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md",
+                "file": "Resource/Stem/Computer Science/Seatch Engine/6 搜索引擎的查询词推荐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 搜索引擎基础 的大纲"
+              "title": "6 搜索引擎的查询词推荐 的大纲"
             }
           },
           {
@@ -258,8 +329,14 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "29355bd5078856fe",
+  "active": "4734a1a05d62565c",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Seatch Engine/5 搜索引擎的排序.md",
+    "Resource/Stem/Computer Science/Seatch Engine/6 搜索引擎的查询词推荐.md",
+    "Resource/Stem/Computer Science/Seatch Engine/4 搜索引擎的召回.md",
+    "Resource/Stem/Computer Science/Seatch Engine/3 搜索引擎的查询词处理.md",
+    "Resource/Stem/Computer Science/Seatch Engine/2 搜索引擎的相关性.md",
+    "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md",
     "Resource/Stem/Computer Science/Seatch Engine/assets/1 搜索引擎基础/file-20260602161735895.png",
     "Resource/Stem/Computer Science/Seatch Engine/assets/1 搜索引擎基础/file-20260602161724104.png",
     "Resource/Stem/Computer Science/Seatch Engine/assets/1 搜索引擎基础/file-20260602161708643.png",
@@ -268,7 +345,6 @@
     "Resource/Stem/Computer Science/Seatch Engine/assets/1 搜索引擎基础",
     "Resource/Stem/Computer Science/Seatch Engine/assets",
     "Homepage.md",
-    "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
     "assets/Homepage/01_Basics_01.pdf",
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
@@ -286,7 +362,6 @@
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_06.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602151906896.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602151547711.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602151514068.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_05.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_04.pdf",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
@@ -302,10 +377,6 @@
     "Homepage/Homepage.md",
     "How I Use Obsidian.md",
     "Excalidraw/Drawing 2026-05-10 20.49.41.md",
-    "Excalidraw/Drawing 2026-05-10 19.16.09.excalidraw.md",
-    "Excalidraw/Drawing 2026-05-10 19.07.28.excalidraw.md",
-    "111/未命名.md",
-    "2026-05-10.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
