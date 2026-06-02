@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "7 推荐系统的物品冷启动 的大纲"
             }
           },
           {
@@ -270,10 +270,10 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "648e9c95fde20aec",
+  "active": "2f0e9c691de2bd8e",
   "lastOpenFiles": [
-    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Homepage.md",
+    "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104404417.png",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104057702.png",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
