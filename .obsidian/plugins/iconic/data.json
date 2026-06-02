@@ -78,26 +78,8 @@
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     },
-    "Resource/Stem/Computer Science/Seatch Engine": {
+    "Resource/Stem/Computer Science/Search Engine": {
       "icon": "lucide-search"
-    },
-    "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
-    "Resource/Stem/Computer Science/Seatch Engine/2 搜索引擎的相关性.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
-    "Resource/Stem/Computer Science/Seatch Engine/3 搜索引擎的查询词处理.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
-    "Resource/Stem/Computer Science/Seatch Engine/4 搜索引擎的召回.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
-    "Resource/Stem/Computer Science/Seatch Engine/5 搜索引擎的排序.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
-    "Resource/Stem/Computer Science/Seatch Engine/6 搜索引擎的查询词推荐.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
     },
     "Resource/Stem/Statistics": {
       "icon": "lucide-chart-no-axes-column-increasing"
@@ -112,6 +94,24 @@
       "icon": "lucide-layout-template"
     },
     "Templates/（TEMPALTE)Excalidraw.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Search Engine/2 搜索引擎的相关性.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Search Engine/3 搜索引擎的查询词处理.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Search Engine/4 搜索引擎的召回.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Search Engine/5 搜索引擎的排序.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Search Engine/6 搜索引擎的查询词推荐.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     }
   },
