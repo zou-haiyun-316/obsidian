@@ -40,13 +40,11 @@
             "id": "2f0e9c691de2bd8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
-                "mode": "source",
-                "source": false
+                "file": "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "7 推荐系统的物品冷启动"
             }
           }
@@ -274,8 +272,10 @@
   },
   "active": "2f0e9c691de2bd8e",
   "lastOpenFiles": [
-    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104057702.png",
+    "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104404417.png",
+    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/file-20260602104057702.png",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260601205443073.png",
@@ -284,15 +284,12 @@
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260601203453995.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260601203038162.png",
     "Resource/Stem/Computer Science/Recommender System/assets/6 推荐系统的重排/file-20260601202606985.png",
-    "Homepage.md",
     "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的排序.md",
     "Resource/Stem/Computer Science/Recommender System/4 推荐系统的特征交叉.md",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260601200604769.png",
     "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260601200424103.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260601200404643.png",
-    "Resource/Stem/Computer Science/Recommender System/assets/5 推荐系统的用户行为序列建模/file-20260601195022496.png",
     "Resource/Stem/Computer Science/Recommender System/assets/3 推荐系统的排序",
     "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Seatch Engine/1 搜索引擎基础.md",
