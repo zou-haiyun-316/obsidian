@@ -96,12 +96,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Statistics/Deep Learning/未命名.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Homepage"
             }
           },
           {
@@ -287,13 +287,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Statistics/Deep Learning/未命名.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -343,15 +343,15 @@
   },
   "active": "59d6258a13e42387",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Hello Agent/未命名.md",
+    "Resource/Stem/Statistics/Deep Learning/Transformer.md",
     "Resource/Stem/Statistics/Deep Learning/Bert.md",
-    "Resource/Stem/Statistics/Deep Learning/未命名.md",
     "Resource/Stem/Statistics/Deep Learning/CNN.md",
     "Resource/Stem/Statistics/Deep Learning/RNN.md",
     "Homepage.md",
     "Resource/Stem/Statistics/Deep Learning",
     "Resource/Stem/Computer Science/Hello Agent/Agent 的发展历程.md",
     "Resource/Stem/Computer Science/Hello Agent/assets/Agent 的发展历程",
-    "Resource/Stem/Computer Science/Hello Agent/未命名.md",
     "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260603132923744.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260603132854647.png",
