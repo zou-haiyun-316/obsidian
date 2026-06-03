@@ -51,10 +51,10 @@
       "icon": "lucide-computer",
       "color": "gray"
     },
-    "Resource/Stem/Computer Science/AI": {
+    "Resource/Stem/Computer Science/Hello Agent": {
       "icon": "lucide-bot"
     },
-    "Resource/Stem/Computer Science/AI/AI的发展历程.md": {
+    "Resource/Stem/Computer Science/Hello Agent/Agent 的发展历程.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     },
     "Resource/Stem/Computer Science/Recommender System": {

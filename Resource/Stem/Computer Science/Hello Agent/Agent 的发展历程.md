@@ -13,7 +13,7 @@ excalidraw-open-md: true
 | **Encoder-Only**    | BERT, RoBERTa, ALBERT   | 双向自注意力机制           | **深度理解**: 能同时看到单词的上下文，捕捉丰富的语义信息[](https://developer.baidu.com/article/details/3321335)[](https://cloud.baidu.com/article/5595222)。                                                 |
 | **Encoder-Decoder** | T5, BART, 原始Transformer | 编码器压缩输入，解码器基于此生成输出 | **序列转换**: 擅长将一个序列映射到另一个不同长度的序列，灵活度高[](https://cloud.tencent.com.cn/developer/article/2398327?from=15425)[](https://developer.baidu.com/article/details/3321335)。                   |
 | **Decoder-Only**    | GPT系列, LLaMA, Mistral   | 单向（因果）自注意力机制       | **文本生成**: 擅长自回归地预测下一个词，生成流畅、连贯的文本[](https://developer.baidu.com/article/details/3321335)[](https://ones.com.cn/tech-news/comprehensive-guide-to-llm-architectures-evolution-2024)。 |
-![[assets/AI的发展历程/file-20260510205941417.png]]
+![[assets/Agent 的发展历程/file-20260510205941417.png]]
 # 2 ChatBot 
 与大语言模型进行交互的初步形式
 ## 2.1 Prompt Engineering
@@ -27,7 +27,7 @@ COT通过向大模型展示中间推理步骤以实现复杂的推理能力，�
 ### 2.1.3 RAG
 检索增强生成先从外部知识库检索相关信息，再结合这些信息一起生成回答，从而提升模型的准确性和知识的时效性。
 ps.未真正改变模型参数，提升效果有限。
-![[assets/AI的发展历程/file-20260510210026654.png]]
+![[assets/Agent 的发展历程/file-20260510210026654.png]]
 ## 2.2 Fine-tuning 
 微调是在已有模型基础上，用特定数据再训练，让模型更适合某个具体任务或场景。
 微调要训练的是模型的参数。LoRA算法通过只训练少量低秩参数来进行微调，大幅降低了训练成本。
