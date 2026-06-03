@@ -93,14 +93,6 @@ ps.约等于一个子Agent，适合sop的沉淀和复用。
 1. b站up主大模型发展总结：https://oigi8odzc5w.feishu.cn/wiki/WBMfwiNkfi6uNFkRtXdcavDzn0e?from=from_copylink
 2. b站up主AI Agent编年史：https://www.bilibili.com/video/BV1NL9tBsELS/?spm_id_from=333.1391.0.0&vd_source=eb8b7c6e7469cdcb996a41649e1220b0
 
-todo
-1. 大模型理论：https://www.bilibili.com/video/BV19MF5zVEwy/?spm_id_from=333.337.search-card.all.click&vd_source=eb8b7c6e7469cdcb996a41649e1220b0（毛玉仁）
-2. Agent学习&实践：https://github.com/datawhalechina/hello-agents（实践一下大模型chatbot应用的整个流程：PE（Few-Shot/COT/Rag)-微调；实践一下agent/workflow应用的整个流程：架构设计/评测）
-3. 解构下claude code/openclaw架构
-4. CV/NLP：「CS231N」深度学习CV（前置课程可以看「CS229」机器学习基础课/小土堆/吴恩达/李宏毅/cs3b1b/)、「CS224W」图神经网络、「CS224N」深度学习NLP
-5. 学习&实践embedding，记得实践下图神经网络
-6. 机器学习/深度学习基础知识：https://www.huaxiaozhuan.com/
-7. 全流程学习：https://csdiy.wiki
 # Excalidraw Data
 
 ## Text Elements

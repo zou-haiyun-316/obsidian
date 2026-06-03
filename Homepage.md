@@ -4,6 +4,15 @@
 3. 自己试一下离散特征怎么做embedding的
 4. 细化一下训练过程，损失函数，梯度下降是怎么做的，各类损失函数的用途
 5. 学习下怎么看财报，商业公司运行逻辑、社会经济运行逻辑
+6. 
+todo
+1. 大模型理论：https://www.bilibili.com/video/BV19MF5zVEwy/?spm_id_from=333.337.search-card.all.click&vd_source=eb8b7c6e7469cdcb996a41649e1220b0（毛玉仁）
+2. Agent学习&实践：https://github.com/datawhalechina/hello-agents（实践一下大模型chatbot应用的整个流程：PE（Few-Shot/COT/Rag)-微调；实践一下agent/workflow应用的整个流程：架构设计/评测）
+3. 解构下claude code/openclaw架构
+4. CV/NLP：「CS231N」深度学习CV（前置课程可以看「CS229」机器学习基础课/小土堆/吴恩达/李宏毅/cs3b1b/)、「CS224W」图神经网络、「CS224N」深度学习NLP
+5. 学习&实践embedding，记得实践下图神经网络
+6. 机器学习/深度学习基础知识：https://www.huaxiaozhuan.com/
+7. 全流程学习：https://csdiy.wiki
 0601 todo 
 1. 完成推荐系统all，看下怎么整理成八股
 2. 完成搜索引擎视频部分，看下怎么整理成八股
