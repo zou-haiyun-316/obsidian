@@ -108,6 +108,18 @@
     "Resource/Stem/Statistics": {
       "icon": "lucide-chart-no-axes-column-increasing"
     },
+    "Resource/Stem/Statistics/Deep Learning": {
+      "icon": "🖇️"
+    },
+    "Resource/Stem/Statistics/Deep Learning/Bert.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Statistics/Deep Learning/CNN.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Statistics/Deep Learning/RNN.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
     "Templates": {
       "icon": "lucide-layout-template"
     },
