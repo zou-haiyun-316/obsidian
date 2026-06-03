@@ -51,6 +51,12 @@
       "icon": "lucide-computer",
       "color": "gray"
     },
+    "Resource/Stem/Computer Science/AI": {
+      "icon": "lucide-bot"
+    },
+    "Resource/Stem/Computer Science/AI/AI的发展历程.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
     "Resource/Stem/Computer Science/Recommender System": {
       "icon": "lucide-creative-commons"
     },
@@ -101,12 +107,6 @@
     },
     "Resource/Stem/Statistics": {
       "icon": "lucide-chart-no-axes-column-increasing"
-    },
-    "Resource/Stem/Statistics/AI": {
-      "icon": "lucide-rss"
-    },
-    "Resource/Stem/Statistics/AI/AI的发展历程.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
     },
     "Templates": {
       "icon": "lucide-layout-template"
