@@ -24,14 +24,12 @@
             "id": "4734a1a05d62565c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
-                "mode": "source",
-                "source": false
+                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md"
               },
-              "icon": "lucide-file",
-              "title": "1 搜索引擎基础"
+              "icon": "excalidraw-icon",
+              "title": "1 推荐系统的基本概念"
             }
           },
           {
@@ -217,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
+                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 搜索引擎基础 的大纲"
+              "title": "1 推荐系统的基本概念 的大纲"
             }
           },
           {
@@ -271,8 +269,14 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4734a1a05d62565c",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+    "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
+    "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
+    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260603111321031.png",
+    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260603111302564.png",
+    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260603111040892.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/01_Basics_03.pdf",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602203358822.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602202919010.png",
@@ -281,12 +285,8 @@
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602202455137.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602202325296.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602201408717.png",
-    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602200917845.png",
-    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602200357235.png",
-    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602195234366.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/01_Basics_02.pdf",
     "Resource/Stem/Computer Science/Search Engine/5 搜索引擎的排序.md",
-    "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
     "Homepage.md",
     "Resource/Stem/Computer Science/Search Engine/6 搜索引擎的查询词推荐.md",
     "Resource/Stem/Computer Science/Search Engine/4 搜索引擎的召回.md",
@@ -296,9 +296,7 @@
     "Resource/Stem/Computer Science/Search Engine/assets",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
     "assets/Homepage/01_Basics_01.pdf",
-    "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
     "Resource/Stem/Computer Science/Seatch Engine/assets/1 搜索引擎基础/1 搜索引擎基础 2026-06-02 16.04.14.md",
-    "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Recommender System/3 推荐系统的排序.md",
     "Resource/Stem/Computer Science/Recommender System/assets/8 推荐系统提升指标的方法/08_Improvement_02_0.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/8 推荐系统提升指标的方法/08_Improvement_02.pdf",
@@ -306,7 +304,6 @@
     "Resource/Stem/Computer Science/Recommender System/7 推荐系统的物品冷启动.md",
     "assets/Homepage/08_Improvement_01.pdf",
     "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_06.pdf",
-    "Resource/Stem/Computer Science/Recommender System/assets/7 推荐系统的物品冷启动/07_ColdStart_05.pdf",
     "Resource/Stem/Computer Science/Recommender System/6 推荐系统的重排.md",
     "Resource/Stem/Computer Science/Recommender System/5 推荐系统的用户行为序列建模.md",
     "Resource/Stem/Computer Science/Recommender System/4 推荐系统的特征交叉.md",
