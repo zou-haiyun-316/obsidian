@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Hello Agent/1 Agent 基础.md",
+                "file": "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Agent 基础"
+              "title": "2 Agent 单体构建"
             }
           }
         ]
@@ -49,10 +49,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Resource/Stem/Computer Science/Hello Agent/1 Agent 基础.md"
+                "file": "Resource/Stem/Computer Science/Hello Agent/1 Agent 模型基础.md"
               },
               "icon": "excalidraw-icon",
-              "title": "1 Agent 基础"
+              "title": "1 Agent 模型基础"
             }
           }
         ],
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Hello Agent/1 Agent 基础.md",
+                "file": "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 Agent 基础 的大纲"
+              "title": "2 Agent 单体构建 的大纲"
             }
           },
           {
@@ -244,12 +244,12 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f26860616895c453",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Hello Agent/1 Agent 模型基础.md",
     "Homepage.md",
-    "Resource/Stem/Computer Science/Hello Agent/1 Agent 基础.md",
     "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
-    "Resource/Stem/Computer Science/Hello Agent/2 Agent 构建.md",
+    "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
     "Resource/Stem/Computer Science/Hello Agent/3 Agent知识扩展.md",
     "Resource/Stem/Statistics/Deep Learning/Bert.md",
