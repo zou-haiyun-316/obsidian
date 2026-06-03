@@ -24,12 +24,14 @@
             "id": "4734a1a05d62565c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md"
+                "file": "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "1 推荐系统的基本概念"
+              "icon": "lucide-file",
+              "title": "1 搜索引擎基础"
             }
           },
           {
@@ -215,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+                "file": "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 推荐系统的基本概念 的大纲"
+              "title": "1 搜索引擎基础 的大纲"
             }
           },
           {
@@ -271,7 +273,9 @@
   },
   "active": "4734a1a05d62565c",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260603111724181.png",
     "Resource/Stem/Computer Science/Recommender System/1 推荐系统的基本概念.md",
+    "Resource/Stem/Computer Science/Recommender System/assets/1 推荐系统的基本概念/file-20260603111701169.png",
     "Resource/Stem/Computer Science/Recommender System/2 推荐系统的召回.md",
     "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260603111321031.png",
@@ -284,7 +288,6 @@
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602202533107.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602202455137.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602202325296.png",
-    "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/file-20260602201408717.png",
     "Resource/Stem/Computer Science/Search Engine/assets/1 搜索引擎基础/01_Basics_02.pdf",
     "Resource/Stem/Computer Science/Search Engine/5 搜索引擎的排序.md",
     "Homepage.md",
