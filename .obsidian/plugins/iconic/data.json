@@ -54,7 +54,16 @@
     "Resource/Stem/Computer Science/Hello Agent": {
       "icon": "lucide-bot"
     },
-    "Resource/Stem/Computer Science/Hello Agent/1 Agent基础.md": {
+    "Resource/Stem/Computer Science/Hello Agent/1 Agent 基础.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/2 Agent 构建.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/3 Agent知识扩展.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/4 Agent进阶实战.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     },
     "Resource/Stem/Computer Science/Hello Agent/Agent 的发展历程.md": {
