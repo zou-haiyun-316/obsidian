@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Agent 单体构建"
+              "title": "Homepage"
             }
           }
         ]
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2 Agent 单体构建 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -246,16 +246,16 @@
   },
   "active": "f26860616895c453",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Hello Agent/Agent 的发展历程.md",
+    "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md",
     "Resource/Stem/Computer Science/Hello Agent/1 Agent 模型基础.md",
     "Homepage.md",
     "Resource/Stem/Computer Science/Search Engine/1 搜索引擎基础.md",
-    "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md",
     "Resource/Stem/Computer Science/Recommender System/8 推荐系统提升指标的方法.md",
     "Resource/Stem/Computer Science/Hello Agent/3 Agent知识扩展.md",
     "Resource/Stem/Statistics/Deep Learning/Bert.md",
     "Resource/Stem/Statistics/Deep Learning/CNN.md",
     "Resource/Stem/Statistics/Deep Learning/RNN.md",
-    "Resource/Stem/Computer Science/Hello Agent/Agent 的发展历程.md",
     "Resource/Stem/Computer Science/Hello Agent/4 Agent进阶实战.md",
     "Resource/Stem/Statistics/Deep Learning/Transformer.md",
     "Resource/Stem/Statistics/Deep Learning",
