@@ -7,10 +7,16 @@ excalidraw-open-md: true
 > [!cite]
 > 内容主要基于https://github.com/datawhalechina/hello-agents
 
+## 1.1 什么是智能体
 > [!note]
 > **什么是智能体(Agent）**：
 > 在人工智能领域，智能体被定义为任何能够通过**传感器（Sensors）**感知其所处**环境（Environment）**，并**自主**地通过**执行器（Actuators）**采取**行动（Action）**以达成特定目标的实体。
 
+## 1.2 智能体如何工作
+
+## 1.3 如何构建智能体
+
+## 1.4 智能体有哪些主流应用范式
 
 
 ## Drawing
