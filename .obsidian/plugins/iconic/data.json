@@ -43,6 +43,9 @@
       "icon": "lucide-book-open-text",
       "color": "gray"
     },
+    "Resource/Social Science/未命名": {
+      "icon": "lucide-bar-chart-horizontal-big"
+    },
     "Resource/Stem": {
       "icon": "lucide-wrench",
       "color": "gray"

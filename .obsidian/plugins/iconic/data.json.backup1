@@ -43,6 +43,9 @@
       "icon": "lucide-book-open-text",
       "color": "gray"
     },
+    "Resource/Social Science/未命名": {
+      "icon": "lucide-bar-chart-horizontal-big"
+    },
     "Resource/Stem": {
       "icon": "lucide-wrench",
       "color": "gray"
@@ -50,6 +53,24 @@
     "Resource/Stem/Computer Science": {
       "icon": "lucide-computer",
       "color": "gray"
+    },
+    "Resource/Stem/Computer Science/Hello Agent": {
+      "icon": "lucide-bot"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/1 Agent 模型基础.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/2 Agent 单体构建.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/3 Agent知识扩展.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/4 Agent进阶实战.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Computer Science/Hello Agent/Agent 的发展历程.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
     },
     "Resource/Stem/Computer Science/Recommender System": {
       "icon": "lucide-creative-commons"
@@ -99,19 +120,28 @@
     "Resource/Stem/Computer Science/Search Engine/6 搜索引擎的查询词推荐.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     },
-    "Resource/Stem/Computer Science/Search Engine/AI": {
-      "icon": "lucide-rss"
-    },
     "Resource/Stem/Statistics": {
       "icon": "lucide-chart-no-axes-column-increasing"
+    },
+    "Resource/Stem/Statistics/Deep Learning": {
+      "icon": "🖇️"
+    },
+    "Resource/Stem/Statistics/Deep Learning/Bert.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Statistics/Deep Learning/CNN.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Statistics/Deep Learning/RNN.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/Stem/Statistics/Deep Learning/Transformer.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
     },
     "Templates": {
       "icon": "lucide-layout-template"
     },
     "Templates/（TEMPALTE)Excalidraw.md": {
-      "icon": "lucide-arrow-up-wide-narrow"
-    },
-    "Resource/Stem/Computer Science/Search Engine/AI/AI的发展历程.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     }
   },
