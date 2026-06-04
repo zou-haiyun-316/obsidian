@@ -21,23 +21,8 @@
               "icon": "lucide-file",
               "title": "1 Agent 模型基础"
             }
-          },
-          {
-            "id": "c068b5ffef0a1d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hello-agents-main/docs/chapter1/第一章 初识智能体.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第一章 初识智能体"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "072d1a40558b75e6",
@@ -204,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello-agents-main/docs/chapter1/第一章 初识智能体.md",
+                "file": "Resource/Stem/Computer Science/Hello Agent/1 Agent 模型基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第一章 初识智能体 的大纲"
+              "title": "1 Agent 模型基础 的大纲"
             }
           },
           {
@@ -258,8 +243,9 @@
       "iconic:打开规则书": false
     }
   },
-  "active": "c068b5ffef0a1d58",
+  "active": "f26860616895c453",
   "lastOpenFiles": [
+    "hello-agents-main/docs/chapter1/第一章 初识智能体.md",
     "hello-agents-main/README.md",
     "Resource/Social Science/Introduction/社会学概论.md",
     "hello-agents-main/Extra-Chapter/Extra09-Agent应用开发实践踩坑与经验分享.md",
@@ -305,7 +291,6 @@
     "hello-agents-main/docs/chapter14/Chapter14-Automated-Deep-Research-Agent.md",
     "hello-agents-main/docs/_sidebar_en.md",
     "hello-agents-main/docs/chapter13/第十三章 智能旅行助手.md",
-    "hello-agents-main/docs/chapter13/Chapter13-Intelligent-Travel-Assistant.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
