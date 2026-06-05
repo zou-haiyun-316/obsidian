@@ -20,6 +20,49 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "0ccb2258c9c268d9",
+            "type": "leaf",
+            "state": {
+              "type": "weread-bookshelf-view",
+              "state": {},
+              "icon": "library",
+              "title": "微信读书书架"
+            }
+          },
+          {
+            "id": "a6b8f930ec966b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/Read notes/社会文化/当代中国社会分层.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "当代中国社会分层"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a13160d967d789dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d792ec984a241ff",
+            "type": "leaf",
+            "state": {
+              "type": "weread-reading-view",
+              "state": {
+                "url": "https://weread.qq.com/web/reader/c9d327e0727abffcc9d74ab"
+              },
+              "icon": "book-open",
+              "title": "微信读书"
+            }
           }
         ]
       }
@@ -155,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "Resource/Read notes/社会文化/当代中国社会分层.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "当代中国社会分层 的大纲"
             }
           },
           {
@@ -213,38 +256,44 @@
       "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2d792ec984a241ff",
   "lastOpenFiles": [
-    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
-    "人人都是产品经理（套装全四册）.md",
-    "Resource/Book Notes/中国地理常识-2015-陕西师范大学出版总社有限公司.md",
-    "Resource/Book Notes/娱乐至死.md",
-    "Resource/Book Notes/我们必须工作吗？.md",
-    "Resource/Book Notes/生育制度（费孝通经典）.md",
-    "Resource/Book Notes/人生十年，不可辜负的20岁到30岁.md",
-    "Resource/Book Notes/人生的智慧.md",
-    "Resource/Book Notes/情绪勒索：那些在伴侣、亲子、职场间，最让人窒息的相处.md",
-    "Resource/Book Notes/宁波人.md",
-    "Resource/Book Notes/宁波老味道.md",
-    "Resource/Book Notes/跨越边界的社区：北京“浙江村”的生活史.md",
-    "Resource/Book Notes/看透本质.md",
-    "Resource/Book Notes/红楼梦脂评汇校本（BookDNA典藏书系）.md",
-    "Resource/Book Notes/构图决定一切（修订版）.md",
-    "Resource/Book Notes/当下的力量（白金版）.md",
-    "Resource/Book Notes/当代中国社会分层.md",
-    "Resource/Book Notes/傲慢与偏见（英汉双语）.md",
-    "Resource/Book Notes/爱的艺术.md",
-    "Resource/Book Notes/SearchEngineBook.pdf.md",
-    "Resource/Book Notes/走近钱学森2019.md",
-    "Resource/Book Notes/重新找回自己.md",
-    "Resource/Book Notes/治理中国：从革命到改革+（美）李侃如着.pdf.md",
-    "Resource/Book Notes/政治秩序的起源：从前人类时代到法国大革命.md",
-    "Resource/Book Notes/原来我可以爱自己：童年受伤者的自我关怀指南.md",
-    "Resource/Book Notes/欲望与尊严：转型期中国的阶层、性别与亲密关系.md",
-    "Resource/Book Notes",
-    "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
-    "Resource/Social Science/Introduction/assets/社会学概论",
-    "Resource/Social Science/Introduction/assets",
+    "Homepage.md",
+    "Resource/Read notes/历史/明朝那些事儿（全集）.md",
+    "Resource/Read notes/经济理财/期货多空逻辑.md",
+    "Resource/Read notes/政治军事/家庭、私有制和国家的起源.md",
+    "Resource/Read notes/人物传记/走近钱学森2019.md",
+    "Resource/Read notes/教育学习/傲慢与偏见（英汉双语）.md",
+    "Resource/Read notes/未分类/与社会学同游 人文主义的视角.pdf.md",
+    "Resource/Read notes/个人成长/人生的智慧.md",
+    "Resource/Read notes/生活百科/婚姻与爱情（杜素娟伴读）.md",
+    "Resource/Read notes/未分类/治理中国：从革命到改革+（美）李侃如着.pdf.md",
+    "Resource/Read notes/心理/爱的艺术.md",
+    "Resource/Read notes/社会文化/跨越边界的社区：北京“浙江村”的生活史.md",
+    "Resource/Read notes/经济理财/激荡三十年：中国企业1978—2008（十年典藏版）（全2册）.md",
+    "Resource/Read notes/哲学宗教/论人类不平等的起源和基础（果麦经典）.md",
+    "Resource/Read notes/精品小说/小王子.md",
+    "Resource/Read notes/政治军事/政治秩序的起源：从前人类时代到法国大革命.md",
+    "Resource/Read notes/生活百科/分手后，成为更好的自己.md",
+    "Resource/Read notes/文学/病隙碎笔.md",
+    "Resource/Read notes/哲学宗教/西西弗神话.md",
+    "Resource/Read notes/心理/怪诞行为学1：可预测的非理性.md",
+    "Resource/Read notes/精品小说/素食者【2024诺贝尔文学奖得主】.md",
+    "Resource/Read notes/生活百科/宁波老味道.md",
+    "Resource/Read notes/文学/宁波人.md",
+    "Resource/Read notes/心理/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+    "Resource/Read notes/个人成长/幸福的勇气：“自我启发之父”阿德勒的哲学课2.md",
+    "Resource/Read notes/个人成长/少有人走的路：心智成熟的旅程.md",
+    "Resource/Read notes/漫画",
+    "Resource/Read notes/人物传记",
+    "Resource/Read notes/期刊杂志",
+    "Resource/Read notes/政治军事",
+    "Resource/Read notes/哲学宗教",
+    "Resource/Read notes/教育学习",
+    "Resource/Read notes/生活百科",
+    "Resource/Read notes/文学",
+    "Resource/Read notes/历史",
+    "Resource/Read notes/心理",
     "hello-agents-main/Extra-Chapter/images/Extra08-figures/skill-structure.png",
     "hello-agents-main/Extra-Chapter/images/Extra08-figures/toc.png",
     "hello-agents-main/Extra-Chapter/images/Extra08-figures/freedom-spectrum.png",
@@ -255,11 +304,6 @@
     "hello-agents-main/Extra-Chapter/images/Extra12-figures/16-PlannerSoft指标分解图.png",
     "hello-agents-main/Extra-Chapter/images/Extra12-figures/15-DPO-loss跨批次不可比图.png",
     "hello-agents-main/Extra-Chapter/images/Extra12-figures/12-DPO样本筛选与防泄漏图.png",
-    "hello-agents-main/Extra-Chapter/images/Extra12-figures",
-    "hello-agents-main/Extra-Chapter/images/Extra10-figures",
-    "hello-agents-main/Extra-Chapter/images/Extra09-figures",
-    "hello-agents-main/Extra-Chapter/images/Extra08-figures",
-    "hello-agents-main/Extra-Chapter/images/Extra07-figures",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

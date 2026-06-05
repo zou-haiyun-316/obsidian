@@ -35,12 +35,12 @@
     "Resource": {
       "icon": "lucide-briefcase-business"
     },
-    "Resource/Book Notes": {
-      "icon": "lucide-notebook-text"
-    },
     "Resource/Humanities": {
       "icon": "lucide-sidebar-open",
       "color": "gray"
+    },
+    "Resource/Read notes": {
+      "icon": "lucide-notebook-text"
     },
     "Resource/Social Science": {
       "icon": "lucide-book-open-text",
