@@ -37,16 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Read notes/社会文化/当代中国社会分层.md",
+                "file": "Resource/Read notes/社会文化/工作、消费主义和新穷人.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "当代中国社会分层"
+              "title": "工作、消费主义和新穷人"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a13160d967d789dc",
@@ -198,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Read notes/社会文化/当代中国社会分层.md",
+                "file": "Resource/Read notes/社会文化/工作、消费主义和新穷人.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "当代中国社会分层 的大纲"
+              "title": "工作、消费主义和新穷人 的大纲"
             }
           },
           {
@@ -256,8 +256,9 @@
       "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "2d792ec984a241ff",
+  "active": "0ccb2258c9c268d9",
   "lastOpenFiles": [
+    "Resource/Read notes/社会文化/当代中国社会分层.md",
     "Homepage.md",
     "Resource/Read notes/历史/明朝那些事儿（全集）.md",
     "Resource/Read notes/经济理财/期货多空逻辑.md",
@@ -283,7 +284,6 @@
     "Resource/Read notes/文学/宁波人.md",
     "Resource/Read notes/心理/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
     "Resource/Read notes/个人成长/幸福的勇气：“自我启发之父”阿德勒的哲学课2.md",
-    "Resource/Read notes/个人成长/少有人走的路：心智成熟的旅程.md",
     "Resource/Read notes/漫画",
     "Resource/Read notes/人物传记",
     "Resource/Read notes/期刊杂志",

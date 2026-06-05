@@ -80,10 +80,26 @@
   "cookieRefreshInterval": 12,
   "scheduledSyncToggle": false,
   "scheduledSyncInterval": 5,
-  "lastSyncTime": 1780651413627,
-  "lastSyncBookCount": 72,
+  "lastSyncTime": 1780651521594,
+  "lastSyncBookCount": 1,
   "lastSyncBookTitles": [],
   "syncLogs": [
+    {
+      "id": "sync-1780651520910",
+      "timestamp": 1780651520910,
+      "totalBooks": 72,
+      "syncedBooks": 1,
+      "skippedBooks": 0,
+      "duration": 0.684,
+      "notes": [
+        {
+          "bookId": "41598972",
+          "title": "工作、消费主义和新穷人",
+          "filePath": "Resource/Read notes/社会文化/工作、消费主义和新穷人.md"
+        }
+      ],
+      "success": true
+    },
     {
       "id": "sync-1780651370152",
       "timestamp": 1780651370152,
