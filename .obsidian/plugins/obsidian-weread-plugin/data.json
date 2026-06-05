@@ -42,7 +42,7 @@
       "value": "294005908"
     }
   ],
-  "noteLocation": "/",
+  "noteLocation": "Resource/Book Notes",
   "dailyNotesLocation": "/",
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
@@ -80,10 +80,20 @@
   "cookieRefreshInterval": 12,
   "scheduledSyncToggle": false,
   "scheduledSyncInterval": 5,
-  "lastSyncTime": 1780650168970,
-  "lastSyncBookCount": 72,
+  "lastSyncTime": 1780650315237,
+  "lastSyncBookCount": 0,
   "lastSyncBookTitles": [],
   "syncLogs": [
+    {
+      "id": "sync-1780650315086",
+      "timestamp": 1780650315086,
+      "totalBooks": 72,
+      "syncedBooks": 0,
+      "skippedBooks": 0,
+      "duration": 0.15,
+      "notes": [],
+      "success": true
+    },
     {
       "id": "sync-1780650128454",
       "timestamp": 1780650128454,
