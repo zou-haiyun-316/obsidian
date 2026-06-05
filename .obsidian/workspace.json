@@ -50,9 +50,9 @@
               "type": "pdf",
               "state": {
                 "file": "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -28,
-                "top": 543,
+                "top": 47,
                 "zoom": 0.528125
               },
               "icon": "lucide-file-text",
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
+                "file": "Resource/Social Science/Introduction/社会学概论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02_Retrieval_01 的大纲"
+              "title": "社会学概论 的大纲"
             }
           },
           {
@@ -251,10 +251,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f26860616895c453",
   "lastOpenFiles": [
-    "Resource/Social Science/Introduction/社会学概论.md",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
+    "Resource/Social Science/Introduction/社会学概论.md",
     "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
     "Resource/Social Science/Introduction/assets/社会学概论",
     "Resource/Social Science/Introduction/assets",
