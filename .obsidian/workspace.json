@@ -6,7 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 46.875,
+        "dimension": 48.61918604651162,
         "children": [
           {
             "id": "f26860616895c453",
@@ -33,17 +33,13 @@
             }
           },
           {
-            "id": "41099577b30b2e6f",
+            "id": "508407a56a71c621",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人人都是产品经理（套装全四册）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "人人都是产品经理（套装全四册）"
+              "type": "weread-reading-stats-view",
+              "state": {},
+              "icon": "bar-chart-2",
+              "title": "微信读书阅读统计"
             }
           }
         ],
@@ -52,7 +48,7 @@
       {
         "id": "072d1a40558b75e6",
         "type": "tabs",
-        "dimension": 53.125,
+        "dimension": 51.38081395348837,
         "children": [
           {
             "id": "fb28d14a0655f3fc",
@@ -76,9 +72,9 @@
               "state": {
                 "file": "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
                 "page": 2,
-                "left": -28,
-                "top": 47,
-                "zoom": 0.528125
+                "left": -29,
+                "top": 60,
+                "zoom": 0.509375
               },
               "icon": "lucide-file-text",
               "title": "02_Retrieval_01"
@@ -219,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人人都是产品经理（套装全四册）.md",
+                "file": "Resource/Social Science/Introduction/社会学概论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "人人都是产品经理（套装全四册） 的大纲"
+              "title": "社会学概论 的大纲"
             }
           },
           {
@@ -277,34 +273,34 @@
       "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "f03fa1de7cf7307c",
+  "active": "7765d87c89ebe1f2",
   "lastOpenFiles": [
-    "Resource/Social Science/Introduction/社会学概论.md",
-    "明朝那些事儿（全集）.md",
-    "期货多空逻辑.md",
-    "家庭、私有制和国家的起源.md",
-    "走近钱学森2019.md",
-    "傲慢与偏见（英汉双语）.md",
-    "与社会学同游 人文主义的视角.pdf.md",
-    "人生的智慧.md",
-    "婚姻与爱情（杜素娟伴读）.md",
-    "治理中国：从革命到改革+（美）李侃如着.pdf.md",
-    "爱的艺术.md",
-    "跨越边界的社区：北京“浙江村”的生活史.md",
-    "激荡三十年：中国企业1978—2008（十年典藏版）（全2册）.md",
-    "论人类不平等的起源和基础（果麦经典）.md",
-    "小王子.md",
-    "政治秩序的起源：从前人类时代到法国大革命.md",
-    "分手后，成为更好的自己.md",
-    "病隙碎笔.md",
-    "西西弗神话.md",
-    "怪诞行为学1：可预测的非理性.md",
-    "素食者【2024诺贝尔文学奖得主】.md",
-    "宁波老味道.md",
-    "宁波人.md",
-    "被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
-    "幸福的勇气：“自我启发之父”阿德勒的哲学课2.md",
-    "少有人走的路：心智成熟的旅程.md",
+    "人人都是产品经理（套装全四册）.md",
+    "Resource/Book Notes/中国地理常识-2015-陕西师范大学出版总社有限公司.md",
+    "Resource/Book Notes/娱乐至死.md",
+    "Resource/Book Notes/我们必须工作吗？.md",
+    "Resource/Book Notes/生育制度（费孝通经典）.md",
+    "Resource/Book Notes/人生十年，不可辜负的20岁到30岁.md",
+    "Resource/Book Notes/人生的智慧.md",
+    "Resource/Book Notes/情绪勒索：那些在伴侣、亲子、职场间，最让人窒息的相处.md",
+    "Resource/Book Notes/宁波人.md",
+    "Resource/Book Notes/宁波老味道.md",
+    "Resource/Book Notes/跨越边界的社区：北京“浙江村”的生活史.md",
+    "Resource/Book Notes/看透本质.md",
+    "Resource/Book Notes/红楼梦脂评汇校本（BookDNA典藏书系）.md",
+    "Resource/Book Notes/构图决定一切（修订版）.md",
+    "Resource/Book Notes/当下的力量（白金版）.md",
+    "Resource/Book Notes/当代中国社会分层.md",
+    "Resource/Book Notes/傲慢与偏见（英汉双语）.md",
+    "Resource/Book Notes/爱的艺术.md",
+    "Resource/Book Notes/SearchEngineBook.pdf.md",
+    "Resource/Book Notes/走近钱学森2019.md",
+    "Resource/Book Notes/重新找回自己.md",
+    "Resource/Book Notes/治理中国：从革命到改革+（美）李侃如着.pdf.md",
+    "Resource/Book Notes/政治秩序的起源：从前人类时代到法国大革命.md",
+    "Resource/Book Notes/原来我可以爱自己：童年受伤者的自我关怀指南.md",
+    "Resource/Book Notes/欲望与尊严：转型期中国的阶层、性别与亲密关系.md",
+    "Resource/Book Notes/与社会学同游 人文主义的视角.pdf.md",
     "Resource/Book Notes",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
     "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
