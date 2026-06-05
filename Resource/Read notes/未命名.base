@@ -3,5 +3,8 @@ views:
     name: 表格
   - type: cards
     name: 视图
+    filters:
+      and:
+        - file.folder.contains("read")
     image: note.cover
     imageFit: contain
