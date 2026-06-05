@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.folder.contains("read")
-        - file.basename != "图书馆"
+        - '!file.basename.contains("图书馆")'
     order:
       - file.name
       - author
