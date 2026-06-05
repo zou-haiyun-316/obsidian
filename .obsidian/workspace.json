@@ -35,18 +35,17 @@
             "id": "a6b8f930ec966b1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Resource/Read notes/社会文化/工作、消费主义和新穷人.md",
-                "mode": "source",
-                "source": false
+                "file": "Resource/Read notes/未命名.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-file",
-              "title": "工作、消费主义和新穷人"
+              "icon": "lucide-layout-grid",
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a13160d967d789dc",
@@ -198,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Read notes/社会文化/工作、消费主义和新穷人.md",
+                "file": "Resource/Read notes/未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作、消费主义和新穷人 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -256,8 +255,10 @@
       "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "0ccb2258c9c268d9",
+  "active": "a6b8f930ec966b1c",
   "lastOpenFiles": [
+    "Resource/Read notes/社会文化/工作、消费主义和新穷人.md",
+    "Resource/Read notes/未命名.base",
     "Resource/Read notes/社会文化/当代中国社会分层.md",
     "Homepage.md",
     "Resource/Read notes/历史/明朝那些事儿（全集）.md",
@@ -283,7 +284,6 @@
     "Resource/Read notes/生活百科/宁波老味道.md",
     "Resource/Read notes/文学/宁波人.md",
     "Resource/Read notes/心理/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
-    "Resource/Read notes/个人成长/幸福的勇气：“自我启发之父”阿德勒的哲学课2.md",
     "Resource/Read notes/漫画",
     "Resource/Read notes/人物传记",
     "Resource/Read notes/期刊杂志",
@@ -293,7 +293,6 @@
     "Resource/Read notes/生活百科",
     "Resource/Read notes/文学",
     "Resource/Read notes/历史",
-    "Resource/Read notes/心理",
     "hello-agents-main/Extra-Chapter/images/Extra08-figures/skill-structure.png",
     "hello-agents-main/Extra-Chapter/images/Extra08-figures/toc.png",
     "hello-agents-main/Extra-Chapter/images/Extra08-figures/freedom-spectrum.png",
