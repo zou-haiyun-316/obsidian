@@ -47,12 +47,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Resource/Social Science/Introduction/社会学概论.md"
+                "file": "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
+                "page": 12,
+                "left": 564,
+                "top": -14,
+                "zoom": 1.0712474645030428
               },
-              "icon": "excalidraw-icon",
-              "title": "社会学概论"
+              "icon": "lucide-file-text",
+              "title": "王思斌《社会学教程（第5版）》教材"
             }
           }
         ],
@@ -190,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Social Science/Introduction/社会学概论.md",
+                "file": "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "社会学概论 的大纲"
+              "title": "王思斌《社会学教程（第5版）》教材 的大纲"
             }
           },
           {
@@ -241,16 +245,19 @@
       "terminal:Open terminal": false,
       "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
-      "iconic:打开规则书": false
+      "iconic:打开规则书": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Resource/Social Science/Introduction/社会学概论.md",
     "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
     "Resource/Social Science/Introduction/assets/社会学概论",
     "Resource/Social Science/Introduction/assets",
     "Homepage.md",
-    "Resource/Social Science/Introduction/社会学概论.md",
     "Resource/Stem/Computer Science/Hello Agent/1 Agent 模型基础.md",
     "hello-agents-main/docs/chapter1/第一章 初识智能体.md",
     "hello-agents-main/README.md",
@@ -282,7 +289,6 @@
     "hello-agents-main/Extra-Chapter/images/Extra07-figures",
     "hello-agents-main/Extra-Chapter/images/Extra06-figures",
     "hello-agents-main/Extra-Chapter/images/Extra05-figures",
-    "hello-agents-main/Extra-Chapter/images/Extra03-figures",
     "hello-agents-main/Extra-Chapter/Extra07-环境配置.md",
     "hello-agents-main/Extra-Chapter/Extra06-GUIAgent科普与实战.md",
     "hello-agents-main/Extra-Chapter/Extra01-面试问题总结.md",
