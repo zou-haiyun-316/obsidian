@@ -6,52 +6,9 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 48.61918604651162,
         "children": [
           {
-            "id": "f26860616895c453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Social Science/Introduction/社会学概论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "社会学概论"
-            }
-          },
-          {
-            "id": "7765d87c89ebe1f2",
-            "type": "leaf",
-            "state": {
-              "type": "weread-bookshelf-view",
-              "state": {},
-              "icon": "library",
-              "title": "微信读书书架"
-            }
-          },
-          {
-            "id": "508407a56a71c621",
-            "type": "leaf",
-            "state": {
-              "type": "weread-reading-stats-view",
-              "state": {},
-              "icon": "bar-chart-2",
-              "title": "微信读书阅读统计"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "072d1a40558b75e6",
-        "type": "tabs",
-        "dimension": 51.38081395348837,
-        "children": [
-          {
-            "id": "fb28d14a0655f3fc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,25 +20,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
-                "page": 2,
-                "left": -29,
-                "top": 60,
-                "zoom": 0.509375
-              },
-              "icon": "lucide-file-text",
-              "title": "02_Retrieval_01"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Social Science/Introduction/社会学概论.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "社会学概论 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -273,8 +213,9 @@
       "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "7765d87c89ebe1f2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
     "人人都是产品经理（套装全四册）.md",
     "Resource/Book Notes/中国地理常识-2015-陕西师范大学出版总社有限公司.md",
     "Resource/Book Notes/娱乐至死.md",
@@ -300,9 +241,7 @@
     "Resource/Book Notes/政治秩序的起源：从前人类时代到法国大革命.md",
     "Resource/Book Notes/原来我可以爱自己：童年受伤者的自我关怀指南.md",
     "Resource/Book Notes/欲望与尊严：转型期中国的阶层、性别与亲密关系.md",
-    "Resource/Book Notes/与社会学同游 人文主义的视角.pdf.md",
     "Resource/Book Notes",
-    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
     "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
     "Resource/Social Science/Introduction/assets/社会学概论",
     "Resource/Social Science/Introduction/assets",
