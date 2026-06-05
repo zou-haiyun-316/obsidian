@@ -37,11 +37,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Resource/Read notes/微信读书书架.base",
-                "viewName": "表格"
+                "file": "Resource/Read notes/微信图书馆.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-table",
-              "title": "微信读书书架"
+              "icon": "lucide-layout-grid",
+              "title": "微信图书馆"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Read notes/微信读书书架.base",
+                "file": "Resource/Read notes/微信图书馆.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "微信读书书架 的大纲"
+              "title": "微信图书馆 的大纲"
             }
           },
           {
@@ -255,15 +255,17 @@
       "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "a6b8f930ec966b1c",
+  "active": "f03fa1de7cf7307c",
   "lastOpenFiles": [
+    "Resource/Read notes/心理/深度关系.md",
+    "Resource/Read notes/微信图书馆.base",
+    "Resource/Read notes/经济理财/期货多空逻辑.md",
+    "Resource/Read notes/政治军事/政治秩序的起源：从前人类时代到法国大革命.md",
     "Resource/Read notes/政治军事/家庭、私有制和国家的起源.md",
-    "Resource/Read notes/微信读书书架.base",
     "Resource/Read notes/社会文化/工作、消费主义和新穷人.md",
     "Resource/Read notes/社会文化/当代中国社会分层.md",
     "Homepage.md",
     "Resource/Read notes/历史/明朝那些事儿（全集）.md",
-    "Resource/Read notes/经济理财/期货多空逻辑.md",
     "Resource/Read notes/人物传记/走近钱学森2019.md",
     "Resource/Read notes/教育学习/傲慢与偏见（英汉双语）.md",
     "Resource/Read notes/未分类/与社会学同游 人文主义的视角.pdf.md",
@@ -275,7 +277,6 @@
     "Resource/Read notes/经济理财/激荡三十年：中国企业1978—2008（十年典藏版）（全2册）.md",
     "Resource/Read notes/哲学宗教/论人类不平等的起源和基础（果麦经典）.md",
     "Resource/Read notes/精品小说/小王子.md",
-    "Resource/Read notes/政治军事/政治秩序的起源：从前人类时代到法国大革命.md",
     "Resource/Read notes/生活百科/分手后，成为更好的自己.md",
     "Resource/Read notes/文学/病隙碎笔.md",
     "Resource/Read notes/哲学宗教/西西弗神话.md",

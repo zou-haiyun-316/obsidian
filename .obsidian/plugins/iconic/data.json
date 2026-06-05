@@ -42,6 +42,9 @@
     "Resource/Read notes": {
       "icon": "lucide-notebook-text"
     },
+    "Resource/Read notes/微信图书馆.base": {
+      "icon": "lucide-library"
+    },
     "Resource/Social Science": {
       "icon": "lucide-book-open-text",
       "color": "gray"
