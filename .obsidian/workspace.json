@@ -248,11 +248,13 @@
       "iconic:打开规则书": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-weread-plugin:打开微信读书书架": false
     }
   },
-  "active": "f26860616895c453",
+  "active": "f03fa1de7cf7307c",
   "lastOpenFiles": [
+    "Resource/未命名",
     "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
     "Resource/Social Science/Introduction/社会学概论.md",
     "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",

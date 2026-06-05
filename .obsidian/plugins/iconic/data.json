@@ -141,6 +141,9 @@
     "Resource/Stem/Statistics/Deep Learning/Transformer.md": {
       "icon": "lucide-arrow-up-wide-narrow"
     },
+    "Resource/未命名": {
+      "icon": "lucide-notebook-text"
+    },
     "Templates": {
       "icon": "lucide-layout-template"
     },

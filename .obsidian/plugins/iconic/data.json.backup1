@@ -43,8 +43,11 @@
       "icon": "lucide-book-open-text",
       "color": "gray"
     },
-    "Resource/Social Science/未命名": {
+    "Resource/Social Science/Introduction": {
       "icon": "lucide-bar-chart-horizontal-big"
+    },
+    "Resource/Social Science/Introduction/社会学概论.md": {
+      "icon": "lucide-arrow-up-wide-narrow"
     },
     "Resource/Stem": {
       "icon": "lucide-wrench",
@@ -137,6 +140,9 @@
     },
     "Resource/Stem/Statistics/Deep Learning/Transformer.md": {
       "icon": "lucide-arrow-up-wide-narrow"
+    },
+    "Resource/未命名": {
+      "icon": "lucide-notebook-text"
     },
     "Templates": {
       "icon": "lucide-layout-template"
