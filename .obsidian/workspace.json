@@ -49,14 +49,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
-                "page": 12,
-                "left": 564,
-                "top": -14,
-                "zoom": 1.0712474645030428
+                "file": "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
+                "page": 1,
+                "left": -28,
+                "top": 543,
+                "zoom": 0.528125
               },
               "icon": "lucide-file-text",
-              "title": "王思斌《社会学教程（第5版）》教材"
+              "title": "02_Retrieval_01"
             }
           }
         ],
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
+                "file": "Resource/Social Science/Introduction/社会学概论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王思斌《社会学教程（第5版）》教材 的大纲"
+              "title": "社会学概论 的大纲"
             }
           },
           {
@@ -251,8 +251,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f26860616895c453",
   "lastOpenFiles": [
+    "Resource/Stem/Computer Science/Recommender System/assets/2 推荐系统的召回/02_Retrieval_01.pdf",
     "Resource/Social Science/Introduction/社会学概论.md",
     "Resource/Social Science/Introduction/assets/社会学概论/王思斌《社会学教程（第5版）》教材.pdf",
     "Resource/Social Science/Introduction/assets/社会学概论",
@@ -288,7 +289,6 @@
     "hello-agents-main/Extra-Chapter/images/Extra08-figures",
     "hello-agents-main/Extra-Chapter/images/Extra07-figures",
     "hello-agents-main/Extra-Chapter/images/Extra06-figures",
-    "hello-agents-main/Extra-Chapter/images/Extra05-figures",
     "hello-agents-main/Extra-Chapter/Extra07-环境配置.md",
     "hello-agents-main/Extra-Chapter/Extra06-GUIAgent科普与实战.md",
     "hello-agents-main/Extra-Chapter/Extra01-面试问题总结.md",
