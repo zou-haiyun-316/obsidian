@@ -6,5 +6,11 @@ views:
     filters:
       and:
         - file.folder.contains("read")
+    order:
+      - file.name
+      - author
+      - readingTime
+      - readingDate
+      - progress
     image: note.cover
     imageFit: contain

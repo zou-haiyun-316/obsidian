@@ -37,11 +37,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Resource/Read notes/未命名.base",
-                "viewName": "视图"
+                "file": "Resource/Read notes/微信读书书架.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-layout-grid",
-              "title": "未命名"
+              "icon": "lucide-table",
+              "title": "微信读书书架"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Read notes/未命名.base",
+                "file": "Resource/Read notes/微信读书书架.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "微信读书书架 的大纲"
             }
           },
           {
@@ -257,13 +257,13 @@
   },
   "active": "a6b8f930ec966b1c",
   "lastOpenFiles": [
+    "Resource/Read notes/政治军事/家庭、私有制和国家的起源.md",
+    "Resource/Read notes/微信读书书架.base",
     "Resource/Read notes/社会文化/工作、消费主义和新穷人.md",
-    "Resource/Read notes/未命名.base",
     "Resource/Read notes/社会文化/当代中国社会分层.md",
     "Homepage.md",
     "Resource/Read notes/历史/明朝那些事儿（全集）.md",
     "Resource/Read notes/经济理财/期货多空逻辑.md",
-    "Resource/Read notes/政治军事/家庭、私有制和国家的起源.md",
     "Resource/Read notes/人物传记/走近钱学森2019.md",
     "Resource/Read notes/教育学习/傲慢与偏见（英汉双语）.md",
     "Resource/Read notes/未分类/与社会学同游 人文主义的视角.pdf.md",
